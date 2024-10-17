@@ -67,3 +67,21 @@ Focus on understanding the problem statements and designing both memoization and
 - **HackerRank:** Practice sections focused on dynamic programming.
 
 By mastering these topics and problem types, you'll build a strong foundation in dynamic programming with Java, making you well-prepared for interviews and coding challenges.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Dynamic Programming:**
+-Introduction to DP
+  - Dynamic Programming is a technique used to solve problems by breaking them down into smaller subproblems and solving them independently.
+  - Dynamic Programming is often used in optimization problems, where the goal is to find the best solution among a set of possible solutions.
+  - Dynamic Programming is often used in problems that can be broken down into subproblems and solved independently.
+  - Dynamic Programming is often used in problems that have overlapping subproblems.
+  - Dynamic Programming is often used in problems that have a large number of subproblems.
+  - Dynamic Programming is often used in problems that have a large number of possible solutions.
+  - Dynamic Programming is often used in problems that have a large number of states.
+  - Dynamic Programming is often used in problems that have a large number of constraints.
+  - Dynamic Programming is often used in problems that have a large number of variables.
+  - Dynamic Programming is often used in problems that have a large number of input values.
+  - Dynamic Programming is often used in problems that have a large number of output values.
+  - Dynamic Programming is often used in problems that have a large number of intermediate values.
+  - Dynamic Programming is often used in problems that have a large number of subproblems.
