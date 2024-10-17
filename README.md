@@ -1,3 +1,5 @@
+#Dynamic Programming
+
 When preparing for Dynamic Programming (DP) in Java, there are several key topics and problem types you should focus on. Here’s a structured guide:
 
 ### 1. **Introduction to Dynamic Programming (DP) Concepts:**
